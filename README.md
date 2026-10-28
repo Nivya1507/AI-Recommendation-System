@@ -141,27 +141,3 @@ You can test the system with the following example queries:
 
 ---
 
-## ✉️ Ready-to-Send Message for HR
-
-Copy and paste this message into the chat where you received the assessment:
-
-```text
-Hi,
-
-I have completed the AI Engineer Assessment — AI-Powered Product Recommendation System.
-
-Live Demo (Vercel): [Paste your deployed Vercel URL here]
-Source Code (GitHub): [Paste your repository URL here]
-
-Implemented features:
-- React frontend (Next.js 14 App Router) with product cards, category filtering, search, and dynamic sorting
-- User preference natural language search with quick-start suggestion chips
-- Server-side AI recommendation route handler (/api/recommend) using OpenAI GPT
-- Strict catalog filtering with zero-hallucination verification
-- AI reasoning badges displaying why each product was recommended
-- Secure server-side API key handling via environment variables
-- Fallback matching engine for resilient demo evaluation
-- Fully responsive dark-mode UI with accessible states
-
-Thank you for the opportunity. I look forward to your feedback!
-```
